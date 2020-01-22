@@ -1,12 +1,13 @@
 ---
 
 layout: col-sidebar
-title: OWASP Vina Del Mar
+title: OWASP Rio De Janeiro
 tags: example-tag
 level: 0
 
 region: Latin America
 
+auto-migrated: 1
 
 ---
 *' Participation*' OWASP Foundation (Overview Slides) is a professional
