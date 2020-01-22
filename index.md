@@ -43,7 +43,7 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 ## Local News
-- Meeting Valparaiso/Viña del mar y el resto de chile
+- Meeting Valparaiso/Viña del mar y el resto de chile 
 - Everyone is welcome to join us at our chapter meetings.
 
 Owasp Viña del Mar nace en Abril 2019 como respuesta a la necesidad de evolución y desarrollo tecnológico a la región de Valparaiso, la cual comprende una de las áreas urbanas más importantes del país: la conurbación Viña del Mar. Además de ello, posee dos importantes puertos de embarque de diversos tipos de productos chilenos de exportación: Valparaíso y San Antonio. y como si fuese poco en la ciudad de Valparaíso se encuentra la sede del Poder Legislativo: el Congreso Nacional.
