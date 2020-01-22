@@ -1,5 +1,5 @@
-<!--### Chapter Information
-* Chapter Region
+### Chapter Information
+* Chapter Region South America Country Chile
 
 ### Social Links
 * [Meetup](https://www.meetup.com/es/OWASP-Vina-del-Mar-Chapter/)
