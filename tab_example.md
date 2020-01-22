@@ -6,7 +6,7 @@ order: 1
 tags: Past Events
 ---
 
-## Example
+## Past Events
 
 Entrenamientos Campos de Martes y Owasp Viña del Mar-2019
 
