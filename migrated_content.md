@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Rio De Janeiro
+title: OWASP vina del mar
 tags: example-tag
 level: 0
 
