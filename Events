@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP Vina Del Mar
 tags: example-tag
+tab:true
 level: 0
 
 region: Latin America
