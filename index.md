@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Vina Del Mar
 tags: Vina Del Mar
 site_side: true
-level: 3
+level: 1
 region: Latin America
 currency: clp
 
