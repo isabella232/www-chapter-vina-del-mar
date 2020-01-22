@@ -1,12 +1,13 @@
 ---
 
 layout: col-sidebar
-title: OWASP Vina Del Mar
-tags: Vina Del Mar
-site_side: true
+title: OWASP vina del mar
+tags: example-tag
 level: 0
+
 region: Latin America
-currency: clp
+
+auto-migrated: 1
 
 ---
 
