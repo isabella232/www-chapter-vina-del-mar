@@ -6,7 +6,8 @@ order: 1
 tags: example-tag
 ---
 
-## Eventos
+
+## **EVENTOS PASADOS**
 
 ![WhatsApp_Image_2019-08-29_at_09.39.41.jpg](WhatsApp_Image_2019-08-29_at_09.39.41.jpg
 "WhatsApp_Image_2019-08-29_at_09.39.41.jpg")
@@ -31,7 +32,6 @@ Av. España 1680, Valparaíso, Auditorio
 
 <https://www.eventbrite.com/e/taller-de-entrenamiento-owasp-vinacampos-de-martes-tickets-71523563905>
 
-## **EVENTOS PASADOS**
 
 ### OWASP LATAM TOUR 2019
 
