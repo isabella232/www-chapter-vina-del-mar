@@ -9,7 +9,7 @@ region: Latin America
 ---
 
 
-## noticias
+## Noticias
 
 **`Meeting``   ``Location`**
 
