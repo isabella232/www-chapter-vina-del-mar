@@ -7,59 +7,6 @@ tags: example-tag
 ---
 
 ## Eventos
-*' Participation*' OWASP Foundation (Overview Slides) is a professional
-association of global members and is open to anyone interested in
-learning more about software security. Local chapters are run
-independently and guided by the Chapter_Leader_Handbook. As a
-501(c)(3) non-profit professional association your support and
-sponsorship of any meeting venue and/or refreshments is tax-deductible.
-Financial contributions should only be made online using the authorized
-online chapter donation button. To be a SPEAKER at ANY OWASP Chapter in
-the world simply review the speaker agreement and then contact the local
-chapter leader with details of what OWASP PROJECT, independent research
-or related software security topic you would like to present on.
-
-# **Nuestro Capítulo**
-
-![Logodef_png_(2).png](Logodef_png_\(2\).png "Logodef_png_(2).png")
-**Owasp Viña del Mar** nace en Abril 2019 como respuesta a la necesidad
-de evolución y desarrollo tecnológico a la región de Valparaiso, la cual
-comprende una de las áreas urbanas más importantes del país: la
-conurbación Viña del Mar. Además de ello, posee dos importantes puertos
-de embarque de diversos tipos de productos chilenos de exportación:
-Valparaíso y San Antonio. y como si fuese poco en la ciudad de
-Valparaíso se encuentra la sede del Poder Legislativo: el Congreso
-Nacional.
-
-Nuestro compromiso es aportar es compartir conocimiento y contribuir al
-desarrollo de la región, fomentando la utilización de OWASP con la
-finalidad de garantizar el software seguro, creando así nuevos espacios
-de integración entre la comunidad estudiantil, corporativa y
-gubernamental que permitan el crecimiento y el desarrollo de
-conocimiento.
-
-## **El Equipo**
-
-  - Líder: **[Gustavo Nieves
-    Arreaza'](mailto:gustavo.nievesarreaza@owasp.org)**, *' Gustavo
-    Nieves Arreaza
-    [Linkedin](https://www.linkedin.com/in/gustavo-nieves-arreaza/)*'
-  - Líder: **Guilermo Farias
-    Diaz**,[Linkedin](https://www.linkedin.com/in/guillermo-farias-diaz-8601806/)
-  - Secretaria:**[Katryn Velasco'](mailto:katrynvelasco@gmail.com)**, *'
-    Katryn Velasco
-    [Linkedin](https://www.linkedin.com/in/katrynvelascomaldonado/)*'
-  - Community manager: **Catalina Fernanda Ahumada
-    Oyarzun**,**[Linkedin](https://www.linkedin.com/in/cataahumada/)**
-  - Colaborador Técnico :**Julio Moreno**
-    ,**[Linkedin](https://www.linkedin.com/in/julio-moreno-a3329515/)**
-
->
-
-> ¡***Los colaboradores siempre son bienvenidos y tú puedes ser uno de
-> ellos, Ayúdanos\!***
-
-## **PRÓXIMOS EVENTOS**
 
 ![WhatsApp_Image_2019-08-29_at_09.39.41.jpg](WhatsApp_Image_2019-08-29_at_09.39.41.jpg
 "WhatsApp_Image_2019-08-29_at_09.39.41.jpg")
