@@ -1,7 +1,7 @@
 ---
 title: Eventos
 layout: null
-tab:true
+tab: true
 order: 1
 tags: eventos-tag
 ---
