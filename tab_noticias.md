@@ -1,7 +1,7 @@
 ---
 
 layout: null
-title: noticias
+title: Noticias
 tags: example-tag
 tab: true
 order: 2
