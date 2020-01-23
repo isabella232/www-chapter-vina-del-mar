@@ -1,15 +1,10 @@
 ---
-
-layout: col-sidebar
 title: OWASP Vina Del Mar
-tags: example-tag
+layout: null
 tab:true
-level: 0
-
-region: Latin America
-
-
+order: 1
 ---
+
 *' Participation*' OWASP Foundation (Overview Slides) is a professional
 association of global members and is open to anyone interested in
 learning more about software security. Local chapters are run
