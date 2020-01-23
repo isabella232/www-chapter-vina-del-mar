@@ -4,7 +4,7 @@ layout: col-sidebar
 title: noticias
 tags: example-tag
 tab: true
-order:2
+order: 2
 region: Latin America
 ---
 
