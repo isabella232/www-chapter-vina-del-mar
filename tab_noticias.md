@@ -1,6 +1,6 @@
 ---
 
-layout: col-sidebar
+layout: null
 title: noticias
 tags: example-tag
 tab: true
