@@ -1,14 +1,13 @@
 ### Leaders
 
 
-* [Gustavo Nieves Arreaza](mailto:gustavo.nievesarreaza@owasp.org)(Technical)[Linkedin](https://www.linkedin.com/in/gustavo-nieves-arreaza/)
+* [Gustavo Nieves Arreaza](mailto:gustavo.nievesarreaza@owasp.org)(Technical),[Linkedin](https://www.linkedin.com/in/gustavo-nieves-arreaza/)
 * [Guillermo Farias Diaz](mailto:guillermo.farias@owasp.org)(Secretary)
 
 ## Volunteers
 
  
-  - Secretaria:* [Katryn Velasco](mailto:katrynvelasco@gmail.com)**, *'
-    Katryn Velasco
+  - Secretaria:*[Katryn Velasco](mailto:katrynvelasco@gmail.com),
     [Linkedin](https://www.linkedin.com/in/katrynvelascomaldonado/)*'
   - Community manager: **Catalina Fernanda Ahumada
     Oyarzun**,[Linkedin](https://www.linkedin.com/in/cataahumada/)**
