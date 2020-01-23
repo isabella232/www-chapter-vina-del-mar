@@ -10,9 +10,9 @@
     Katryn Velasco
     [Linkedin](https://www.linkedin.com/in/katrynvelascomaldonado/)*'
   - Community manager: **Catalina Fernanda Ahumada
-    Oyarzun**,**[Linkedin](https://www.linkedin.com/in/cataahumada/)**
+    Oyarzun**,[Linkedin](https://www.linkedin.com/in/cataahumada/)**
   - Colaborador Técnico :**Julio Moreno**
-    ,**[Linkedin](https://www.linkedin.com/in/julio-moreno-a3329515/)**
+    ,[Linkedin](https://www.linkedin.com/in/julio-moreno-a3329515/)**
 
 >
 
