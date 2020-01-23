@@ -1,13 +1,15 @@
 ---
 
 layout: col-sidebar
-title: OWASP Vina del mar
+title: noticias
 tags: example-tag
-level: 0
+tab: true
+order:2
 region: Latin America
 ---
 
-## Local News
+
+## noticias
 
 **`Meeting``   ``Location`**
 
