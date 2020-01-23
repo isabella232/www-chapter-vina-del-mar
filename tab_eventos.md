@@ -1,12 +1,12 @@
 ---
-title: Events
+title: Eventos
 layout: null
 tab:true
 order: 1
-tags: events-tag
+tags: eventos-tag
 ---
 
-## Events
+## Eventos
 *' Participation*' OWASP Foundation (Overview Slides) is a professional
 association of global members and is open to anyone interested in
 learning more about software security. Local chapters are run
