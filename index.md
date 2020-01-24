@@ -5,9 +5,9 @@ title: OWASP vina del mar
 tags: example-tag
 level: 0
 
-region: Latin America
+region: South America
 
-auto-migrated: 1
+auto-migrated: 0
 
 ---
 
