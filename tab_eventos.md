@@ -205,7 +205,7 @@ Desarrollo Seguro o Seguridad Industrial).
 ### SEGURIDAD EN CÓDIGO LIBRE
 
 
-<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/64px-1er_evento.jpg"><img width=180px align="right" style="float: right;" src="assets/images/64px-1er_evento.jpg"></a>
+<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/864px-1er_evento.jpg"><img width=180px align="right" style="float: right;" src="assets/images/864px-1er_evento.jpg"></a>
 
 Con el objetivo de potenciar las áreas de Seguridad informática de  las
 empresas,persuadir a los estudiantes a incursionar en el área de
