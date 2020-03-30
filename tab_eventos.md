@@ -25,9 +25,11 @@ tags: example-tag
 
 ### ***Entrenamientos Campos de Martes y Owasp Viña del Mar-2019***
 
-Vinacampomarte1.jpg|Gustavo Nieves WhatsApp Image 2019-10-22 at
-13.12.58.jpg|Publico WhatsApp Image 2019-10-22 at 13.16.37.jpg|Jonathan
-Correa WhatsApp Image 2019-10-22 at 13.16.40.jpeg|Victor Gutierrez
+Speakers
+
+|Gustavo Nieves 
+|Jonathan Correa
+|Victor Gutierrez
 
 Ya nos encontramos trabajando para traer a este espacio a expertos
 reconocidos que marcaran la diferencia compartiendo con todos los
