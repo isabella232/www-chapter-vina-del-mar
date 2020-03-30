@@ -13,7 +13,7 @@ tags: example-tag
 <a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/1200px-Vinacampomarte1.jpg"><img width=180px align="right" style="float: right;" src="assets/images/1200px-Vinacampomarte1.jpg"></a>
 
 
-<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.12.58.jpg"><img width=180px align="right" style="float: right;" src="1200px-WhatsApp_Image_2019-10-22_at_13.12.58.jpg"></a>
+<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.12.58.jpg"><img width=180px align="right" style="float: right;" src="assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.12.58.jpg"></a>
 
 
 <a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.16.37.jpg"><img width=180px align="right" style="float: right;" src="assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.16.37.jpg"></a>
