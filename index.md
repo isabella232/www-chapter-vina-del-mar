@@ -11,6 +11,7 @@ auto-migrated: 0
 
 ---
 
+<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/450px-Logodef_png_(2).png"><img width=180px align="right" style="float: right;" src="/assets/images/450px-Logodef_png_(2).png"></a>
 
 ## Welcome
 OWASP Foundation (Overview Slides) is a professional association of global members and is open to anyone interested in learning more about software security. Local chapters are run independently and guided by the Chapter_Leader_Handbook. As a 501(c)(3) non-profit professional association your support and sponsorship of any meeting venue and/or refreshments is tax-deductible. Financial contributions should only be made online using the authorized online chapter donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the speaker agreement and then contact the local chapter leader with details of what OWASP PROJECT, independent research or related software security topic you would like to present on.
