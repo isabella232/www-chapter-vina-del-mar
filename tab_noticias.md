@@ -26,7 +26,7 @@ Consultas hacerlas por correo electronico gustavo.nievesarreaza@owasp.org
 Proxima Fecha 2 al 30 de Mayo del 2020
 
 
-<a href="https://docs.google.com/forms/u/3/d/e/1FAIpQLSdVW3UT6oPGvhanALP_LrL0jBU_VTAgeY73HBJGwn_QgJ7ZkA/viewform"></a>
+<a href="https://docs.google.com/forms/u/3/d/e/1FAIpQLSdVW3UT6oPGvhanALP_LrL0jBU_VTAgeY73HBJGwn_QgJ7ZkA/viewform"></a> 
 
 
 
