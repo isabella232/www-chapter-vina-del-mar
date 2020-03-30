@@ -11,11 +11,11 @@ region: Latin America
 
 ## Noticias
 
-**`Taller de 16 horas de desarrollo seguro, para financiar Latam Tour Owasp 2020``   ``Onlie`**
+**`Taller de 16 horas de desarrollo seguro, para financiar Latam Tour Owasp 2020``   ``Modalidad: Onlie`**
 
 Taller de desarrollo seguro Owasp online (16 horas)
 
-Se entregarán certificado de completacion de curso firmado por Owasp International desde el board en USA
+Se entregarán certificado de completacion de curso firmado por Owasp board en USA
 
 Curso patentado en el departamento derechos intelectuales de Chile.
 Rut: 76.561.829-0
