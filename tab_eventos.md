@@ -49,6 +49,8 @@ Av. España 1680, Valparaíso, Auditorio
 
 ### OWASP LATAM TOUR 2019
 
+<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/"><img width=180px align="right" style="float: right;" src="assets/images/"></a>
+
 Este año Viña del Mar se sumó al OWASP Latam Tour 2019, y fue toda una
 experiencia llena de entusiasmo y desafíos constantes que logramos
 superar con éxito, nada de esto hubiese sido posible sin el apoyo de La
