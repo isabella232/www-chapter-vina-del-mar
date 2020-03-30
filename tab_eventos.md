@@ -9,6 +9,7 @@ tags: example-tag
 
 ## **EVENTOS PASADOS**
 
+### ***Entrenamientos Campos de Martes y Owasp Viña del Mar-2019***
 
 <a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/1200px-Vinacampomarte1.jpg"><img width=180px align="right" style="float: right;" src="assets/images/1200px-Vinacampomarte1.jpg"></a>
 
@@ -20,16 +21,18 @@ tags: example-tag
 
 <a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.16.40.jpeg"><img width=180px align="right" style="float: right;" src="assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.16.40.jpeg"></a>
 
+<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/WhatsApp_Image_2019-08-29_at_09.39.41.jpg"><img width=180px align="right" style="float: right;" src="assets/images/WhatsApp_Image_2019-08-29_at_09.39.41.jpg"></a>
 
 <a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/450px-SantA_mARIA_3.jpg"><img width=180px align="right" style="float: right;" src="assets/images/450px-SantA_mARIA_3.jpg"></a>
 
-### ***Entrenamientos Campos de Martes y Owasp Viña del Mar-2019***
+
 
 Speakers
-
+|Javier Bonaire
 |Gustavo Nieves 
 |Jonathan Correa
 |Victor Gutierrez
+
 
 Ya nos encontramos trabajando para traer a este espacio a expertos
 reconocidos que marcaran la diferencia compartiendo con todos los
