@@ -11,7 +11,9 @@ auto-migrated: 0
 
 ---
 
-<img width=180px align="right" style="float: right;" src="assets/images/450px-Logodef_png_(2).png">
+<a><img width=180px align="right" style="float: right;" src="/assets/images/450px-Logodef_png_(2).png"></a>
+
+
 
 ## Welcome
 
