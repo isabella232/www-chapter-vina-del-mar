@@ -7,7 +7,9 @@ tags: example-tag
 ---
 
 
-## **EVENTOS PASADOS**  <img width="180px" align="right" style="float: right;" src="assets/images/450px-Logodef_png_(2).png">
+## **EVENTOS PASADOS**  
+
+<img width="180px" align="right" style="float: right;" src="assets/images/450px-Logodef_png_(2).png">
 
 ### ***Entrenamientos Campos de Martes y Owasp Viña del Mar-2019***
 
