@@ -5,11 +5,11 @@ tab: true
 order: 1
 tags: example-tag
 ---
-
+<img width="180px" align="right" style="float: right;" src="assets/images/450px-Logodef_png_(2).png">
 
 ## **EVENTOS PASADOS**  
 
-<img width="180px" align="right" style="float: right;" src="assets/images/450px-Logodef_png_(2).png">
+
 
 ### ***Entrenamientos Campos de Martes y Owasp Viña del Mar-2019***
 
@@ -53,7 +53,7 @@ Av. España 1680, Valparaíso, Auditorio
 
 ### OWASP LATAM TOUR 2019
 
-<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/"><img width="180px" align="right" style="float: right;" src="assets/images/"></a>
+<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/Latam%20Tour.jpeg"><img width="180px" align="right" style="float: right;" src="assets/images/Latam Tour.jpeg"></a>
 
 Este año Viña del Mar se sumó al OWASP Latam Tour 2019, y fue toda una
 experiencia llena de entusiasmo y desafíos constantes que logramos
