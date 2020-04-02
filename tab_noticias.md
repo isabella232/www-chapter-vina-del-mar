@@ -9,6 +9,8 @@ region: Latin America
 ---
 
 
+<img width="180px" align="right" style="float: right;" src="assets/images/450px-Logodef_png_(2).png">
+
 ## Noticias
 
 **`Taller de 16 horas de desarrollo seguro, para financiar Latam Tour Owasp 2020``   ``Modalidad: Onlie`**
