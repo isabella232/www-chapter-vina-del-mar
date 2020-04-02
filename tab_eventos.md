@@ -19,9 +19,9 @@ Curso patentado en el departamento derechos intelectuales de Chile.
 Rut: 76.561.829-0
 Appsec SPA.
 
-Consultas hacerlas por correo electronico 
+Consultas hacerlas por correo electronico gustavo.nieves@owasp.org
 
-<a href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSdVW3UT6oPGvhanALP_LrL0jBU_VTAgeY73HBJGwn_QgJ7ZkA/viewform"></a>
+<https://docs.google.com/forms/u/1/d/e/1FAIpQLSdVW3UT6oPGvhanALP_LrL0jBU_VTAgeY73HBJGwn_QgJ7ZkA/viewform>
 
 
 
