@@ -7,11 +7,13 @@ tags: example-tag
 ---
 
 
-## **EVENTOS PASADOS**
+## **EVENTOS PASADOS**  <img width="180px" align="right" style="float: right;" src="assets/images/450px-Logodef_png_(2).png">
 
 ### ***Entrenamientos Campos de Martes y Owasp Viña del Mar-2019***
 
-<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/1200px-Vinacampomarte1.jpg"><img width=180px align="right" style="float: right;" src="assets/images/1200px-Vinacampomarte1.jpg"></a>
+
+
+<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/1200px-Vinacampomarte1.jpg"><img width="180px" align="right" style="float: right;" src="assets/images/1200px-Vinacampomarte1.jpg"></a>
 
 
 <a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.12.58.jpg"><img width=180px align="right" style="float: right;" src="assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.12.58.jpg"></a>
