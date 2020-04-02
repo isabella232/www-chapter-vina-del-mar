@@ -18,16 +18,16 @@ tags: example-tag
 <a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/1200px-Vinacampomarte1.jpg"><img width="180px" align="right" style="float: right;" src="assets/images/1200px-Vinacampomarte1.jpg"></a>
 
 
-<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.12.58.jpg"><img width=180px align="right" style="float: right;" src="assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.12.58.jpg"></a>
+<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.12.58.jpg"><img width="180px" align="right" style="float: right;" src="assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.12.58.jpg"></a>
 
 
-<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.16.37.jpg"><img width=180px align="right" style="float: right;" src="assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.16.37.jpg"></a>
+<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.16.37.jpg"><img width="180px" align="right" style="float: right;" src="assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.16.37.jpg"></a>
 
-<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.16.40.jpeg"><img width=180px align="right" style="float: right;" src="assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.16.40.jpeg"></a>
+<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.16.40.jpeg"><img width="180px" align="right" style="float: right;" src="assets/images/1200px-WhatsApp_Image_2019-10-22_at_13.16.40.jpeg"></a>
 
-<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/WhatsApp_Image_2019-08-29_at_09.39.41.jpg"><img width=180px align="right" style="float: right;" src="assets/images/WhatsApp_Image_2019-08-29_at_09.39.41.jpg"></a>
+<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/WhatsApp_Image_2019-08-29_at_09.39.41.jpg"><img width="180px" align="right" style="float: right;" src="assets/images/WhatsApp_Image_2019-08-29_at_09.39.41.jpg"></a>
 
-<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/450px-SantA_mARIA_3.jpg"><img width=180px align="right" style="float: right;" src="assets/images/450px-SantA_mARIA_3.jpg"></a>
+<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/450px-SantA_mARIA_3.jpg"><img width="180px" align="right" style="float: right;" src="assets/images/450px-SantA_mARIA_3.jpg"></a>
 
 
 
@@ -53,7 +53,7 @@ Av. España 1680, Valparaíso, Auditorio
 
 ### OWASP LATAM TOUR 2019
 
-<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/"><img width=180px align="right" style="float: right;" src="assets/images/"></a>
+<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/"><img width="180px" align="right" style="float: right;" src="assets/images/"></a>
 
 Este año Viña del Mar se sumó al OWASP Latam Tour 2019, y fue toda una
 experiencia llena de entusiasmo y desafíos constantes que logramos
@@ -211,7 +211,7 @@ Desarrollo Seguro o Seguridad Industrial).
 ### SEGURIDAD EN CÓDIGO LIBRE
 
 
-<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/864px-1er_evento.jpg"><img width=180px align="right" style="float: right;" src="assets/images/864px-1er_evento.jpg"></a>
+<a href="https://github.com/OWASP/www-chapter-vina-del-mar/blob/master/assets/images/864px-1er_evento.jpg"><img width="180px" align="right" style="float: right;" src="assets/images/864px-1er_evento.jpg"></a>
 
 Con el objetivo de potenciar las áreas de Seguridad informática de  las
 empresas,persuadir a los estudiantes a incursionar en el área de
