@@ -9,6 +9,22 @@ tags: example-tag
 
 ## **EVENTOS PASADOS**  
 
+### ***Desarrollo Seguro Marzo 2020***
+
+Taller de desarrollo seguro Owasp Vina primera edición online (16 horas)
+
+Se entregarán certificado de completacion de curso firmado por Owasp International desde el board en USA
+
+Curso patentado en el departamento derechos intelectuales de Chile.
+Rut: 76.561.829-0
+Appsec SPA.
+
+Consultas hacerlas por correo electronico 
+
+<a href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSdVW3UT6oPGvhanALP_LrL0jBU_VTAgeY73HBJGwn_QgJ7ZkA/viewform"></a>
+
+
+
 
 
 ### ***Entrenamientos Campos de Martes y Owasp Viña del Mar-2019***
