@@ -142,6 +142,12 @@ simultáneo:
 <td><p>Ciberinteligencia Hiperconvergente: Nuevos retos IT/OT</p></td>
 <td><p>Con la globalización, la digitalización y la conectividad organizaciones de todo tipo de sectores se enfrentan al reto de identificar y aprovechar las oportunidades que ofrece el salto al mundo digital. El auge de la hiperconvergencia representa la combinación de componentes virtuales y físicos, entre los sistemas de información (IT) y redes de operaciones (OT) que interconectan los distintos elementos de producción y los sistemas de información corporativos (IT) la industria plantea nuevos retos de dependencia tecnológica para el desarrollo normal de las actividades de las organizaciones, lo que ha abierto una ventana hacia ciberriesgos y ciberamenazas hasta ahora desconocida. Es un pilar fundamental aplicar las medidas de Ciberinteligencia.</p></td>
 </tr>
+<tr class="even">
+<td><p> 24 de mayo de 2020</p></td>
+<td><p><strong><a href="https://www.linkedin.com/in/danieliturrietagodoy/">Daniel Iturrieta</a></strong> – Chile Jefe de proyectos de Seguridad Senior en Redbanc</p></td>
+<td><p>La unidad hace la fuerza, la importancia de colaborar en tiempos de ciberamenaza</p></td>
+<td><p>En pleno auge de las cibertecnologias, plataformas cloud, planes de concientización, planes de continuidad operacional, etc, es de vital importancia entender que la unión hace la fuerza, este es el lema que se pretende imprimir en el ADN de las organizaciones y en los equipos de ciberseguridad hoy en día. La tendencia mundial es compartir en tiempo real la información de los ataques sufridos o descubiertos por las organizaciones, hoy ya existen tecnologías que permiten tanto a profesionales como organizaciones ser parte de esta visión de colaboración en pos de una internet más segura.</p></td>
+</tr>
 </tbody>
 </table>
 
