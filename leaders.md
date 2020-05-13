@@ -7,9 +7,10 @@
 ### Volunteers
 
  
-  - *[Katryn Velasco](mailto:katrynvelasco@gmail.com),[Linkedin](https://www.linkedin.com/in/katrynvelascomaldonado/)*
+  - **[Katryn Velasco](mailto:katrynvelasco@gmail.com)**,[Linkedin](https://www.linkedin.com/in/katrynvelascomaldonado/)*
   - **Catalina Fernanda Ahumada Oyarzun**,[Linkedin](https://www.linkedin.com/in/cataahumada/)
   - **Julio Moreno**,[Linkedin](https://www.linkedin.com/in/julio-moreno-a3329515/)
+   - **Brandon Aldana**,[Linkedin](https://www.linkedin.com/in/brandon-aldana)
 
 >
 
