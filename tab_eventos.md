@@ -11,11 +11,13 @@ tags: example-tag
 
 # ***Chapter ALL DAY***
 
-Link if the event :<https://owasp.org/www-community/social/chapters_all_day/> 
+Link if the event : <https://owasp.org/www-community/social/chapters_all_day/> 
+
 
 Viña Speakers : Patricia Valdivia
                 Paola Perez
                 Gustavo Nieves
+
 
                    
 Youtube Channel edit video : <https://www.youtube.com/watch?v=VUUPnMhNQAw>
