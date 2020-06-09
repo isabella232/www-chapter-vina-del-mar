@@ -11,25 +11,26 @@ tags: example-tag
 
 # ***Chapter ALL DAY***
 
-Link if the event :<https://owasp.org/www-event-2020-latam-at-home/>
+Link if the event :<https://owasp.org/www-community/social/chapters_all_day/> 
 
-Chapter Speakers : Mikel Rufian
-                   Paola Perez
-                   Milagroz Cruz
-                   German Schmidt
-                   Victor Guitierrez
-                   Gustavo Nieves
+Viña Speakers : Patricia Valdivia
+                Paola Perez
+                Gustavo Nieves
+
                    
 Youtube Channel edit video : <https://www.youtube.com/watch?v=VUUPnMhNQAw>
 Youtube Channel oroginal video(connection problem) : <https://www.youtube.com/watch?v=grJPnuL_JhA>               
 
 ### ***Owasp Stay Home 2020***
 
-Link if the event :<https://owasp.org/www-community/social/chapters_all_day/>
+Link if the event : <https://owasp.org/www-event-2020-latam-at-home/>
 
-Viña Speakers : Patricia Valdivia
-                Paola Perez
-                Gustavo Nieves
+                   Chapter Speakers : Mikel Rufian
+                   Paola Perez
+                   Milagroz Cruz
+                   German Schmidt
+                   Victor Guitierrez
+                   Gustavo Nieves
                 
 Youtube Channel edit video  <https://www.youtube.com/feed/my_videos>
 
