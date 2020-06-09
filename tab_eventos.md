@@ -14,9 +14,10 @@ tags: example-tag
 Link if the event : <https://owasp.org/www-community/social/chapters_all_day/> 
 
 
-Viña Speakers : Patricia Valdivia
-                Paola Perez
-                Gustavo Nieves
+Speakers
+|Patricia Valdivia 
+|Paola Perez
+|Gustavo Nieves.
 
 
                    
