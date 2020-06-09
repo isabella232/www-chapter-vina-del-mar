@@ -22,7 +22,8 @@ Speakers
 
                    
 Youtube Channel edit video : <https://www.youtube.com/watch?v=VUUPnMhNQAw>
-|Youtube Channel oroginal video(connection problem) : <https://www.youtube.com/watch?v=grJPnuL_JhA>               
+<br>
+Youtube Channel oroginal video(connection problem) : <https://www.youtube.com/watch?v=grJPnuL_JhA>               
 
 ### ***Owasp Stay Home 2020***
 
