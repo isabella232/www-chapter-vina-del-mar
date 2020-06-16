@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP Vina Del Mar
-tags: Vina Del ar
+title: OWASP vina del mar
+tags: 
 level: 0
 
 region: South America
