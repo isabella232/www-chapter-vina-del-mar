@@ -26,7 +26,7 @@ Speakers
                    
 Youtube Channel edit video : <https://www.youtube.com/watch?v=VUUPnMhNQAw>
 <br>
-Youtube Channel oroginal video(connection problem) : <https://www.youtube.com/watch?v=grJPnuL_JhA>               
+         
 
 ### ***Owasp LATAM Stay Home 2020***
 
@@ -39,7 +39,7 @@ Link if the event : <https://owasp.org/www-event-2020-latam-at-home/>
                    Victor Guitierrez
                    Gustavo Nieves
                 
-Youtube Channel edit video  <https://www.youtube.com/feed/my_videos>
+Youtube Channel  video  <https://www.youtube.com/feed/my_videos>
 
 ### ***Desarrollo Seguro Marzo 2020***
 
