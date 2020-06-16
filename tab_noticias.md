@@ -5,8 +5,10 @@ title: Noticias
 tags: example-tag
 tab: true
 order: 2
-region: Latin America
+region: South America 
 ---
+
+
 
 
 <img width="180px" align="right" style="float: right;" src="assets/images/450px-Logodef_png_(2).png">
