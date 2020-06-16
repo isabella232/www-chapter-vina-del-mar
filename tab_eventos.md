@@ -3,7 +3,7 @@ title: Eventos
 layout: null
 tab: true
 order: 1
-tags: Vina del mar
+tags: example-tag
 ---
 
 
