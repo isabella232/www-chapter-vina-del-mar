@@ -28,7 +28,7 @@ Youtube Channel edit video : <https://www.youtube.com/watch?v=VUUPnMhNQAw>
 <br>
 Youtube Channel oroginal video(connection problem) : <https://www.youtube.com/watch?v=grJPnuL_JhA>               
 
-### ***Owasp Stay Home 2020***
+### ***Owasp LATAM Stay Home 2020***
 
 Link if the event : <https://owasp.org/www-event-2020-latam-at-home/>
 
