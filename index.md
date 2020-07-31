@@ -8,6 +8,9 @@ level: 0
 region: South America
 
 auto-migrated: 0
+meetup-group: OWASP-Vina-del-Mar-Chapter
+country: Chile
+postal-code: 
 
 ---
 
