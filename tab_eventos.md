@@ -12,6 +12,17 @@ tags: example-tag
 
 ## **EVENTOS PASADOS**  
 
+
+### ***Desarrollo seguro con Owasp -- Parte 1 y desarrollo seguro con Owasp --Parte 2***
+
+Aprende a mitigar las vulnerabilidades de seguridad en el código fuente y a programar sin fallas de seguridad en tu aplicación.
+
+OWASP (acrónimo de Open Web Application Security Project, en inglés 'Proyecto abierto de seguridad de aplicaciones web') es un proyecto de código abierto dedicado a determinar y combatir las causas que hacen que el software sea inseguro. La Fundación OWASP es un organismo sin ánimo de lucro que apoya y gestiona los proyectos e infraestructura de OWASP (wikipedia: https://es.wikipedia.org/wiki/Open_Web_Application_Security_Project)
+
+OWASP Viña del Mar nos trae un taller de 2 partes, 2 horas cada uno para aprender sobre desarrollo seguro para detectar, remediar e implementar estándares herramientas de desarrollo seguro en tu código fuente
+
+https://www.meetup.com/es-ES/Women-Who-Code-Santiago/events/272773158/?isFirstPublish=true
+
 ### *** Owasp Chapter ALL DAY***
 
 Link if the event : <https://owasp.org/www-community/social/chapters_all_day/> 
