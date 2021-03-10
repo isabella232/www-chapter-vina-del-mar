@@ -2,6 +2,7 @@
 
 * 
   [Brandon Aldana](mailto:brandon.aldana@owasp.org)
+  
   [Gustavo Nieves Arreaza](mailto:gustavo.nievesarreaza@owasp.org)(Technical)
 
 
