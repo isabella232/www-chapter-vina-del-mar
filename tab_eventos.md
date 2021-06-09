@@ -10,8 +10,17 @@ tags: example-tag
 
 <img width="180px" align="right" style="float: right;" src="assets/images/450px-Logodef_png_(2).png">
 
+
+
 ## **EVENTOS PASADOS**  
 
+
+### ***Owasp Latam Home 2021***
+
+29 of june to 1 july to 2021
+We are part of the CFP and Marketing comitte
+
+https://owasp.org/www-event-2021-latam-at-home/index-en
 
 ### ***Desarrollo seguro con Owasp -- Parte 1 y desarrollo seguro con Owasp --Parte 2***
 
