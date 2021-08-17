@@ -18,7 +18,7 @@ tags: example-tag
 
 ### ***Owasp Viña del Mar-Meeting***
 
-22 of July to 2021
+22 of July  2021
 We are part of the CFP and Marketing comitte
 
 
@@ -34,7 +34,7 @@ Talks:
 
 ### ***Owasp Latam Home 2021***
 
-3 to 5 of august to 2021
+3 to 5 of august  2021
 We are part of the CFP and Marketing comitte
 
 
