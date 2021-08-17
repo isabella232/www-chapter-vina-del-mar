@@ -15,12 +15,33 @@ tags: example-tag
 ## **EVENTOS PASADOS**  
 
 
-### ***Owasp Latam Home 2021***
 
-29 of june to 1 july to 2021
+### ***Owasp Viña del Mar-Meeting***
+
+22 of July to 2021
 We are part of the CFP and Marketing comitte
 
-https://owasp.org/www-event-2021-latam-at-home/index-en
+
+Link if the event : <https://www.meetup.com/es/OWASP-Vina-del-Mar-Chapter/events/279182584/> 
+Video:<https://youtu.be/yLvTiavxIZk> 
+
+Talks: 
+
+1)Huella Digital-Magdiel Guitierrez/Consultor de Securidad (1-30 minutos)
+
+2)MAP(Patrones para desarrollar Microservicios seguros en Cloud) Cloud Security Alliance-Gustavo Nieves(30-59)/Owasp Chapter Leader/Author Cloud Security Alliance/IEEE Published Author
+
+
+### ***Owasp Latam Home 2021***
+
+3 to 5 of august to 2021
+We are part of the CFP and Marketing comitte
+
+
+Link if the event : <https://owasp.org/www-event-2021-latam-at-home/index-en> 
+Videos:<https://youtu.be/wYhqYyFsrrE> 
+
+
 
 ### ***Desarrollo seguro con Owasp -- Parte 1 y desarrollo seguro con Owasp --Parte 2***
 
