@@ -16,7 +16,20 @@ tags: example-tag
 
 
 
-### ***Owasp Viña del Mar-Meeting***
+### ***Owasp Viña del Mar-Meeting 2***
+
+17 de septiembre  2021
+
+Evento en conjunto con OWASP Chapter Panama
+
+Cuatro Speakers
+
+Speakers Confirmados:
+
+-Rudy Pinochett (Que es SAST/DAST/IAST/RASP)
+-Philippe Delteil (vulnerabilidades reales de OWASP)
+
+### ***Owasp Viña del Mar-Meeting 1***
 
 22 of July  2021
 We are part of the CFP and Marketing comitte
