@@ -14,7 +14,11 @@ tags: example-tag
 
 ## **EVENTOS PASADOS** 
 
+
 ### ***Owasp Viña del Mar y SCS(Comunidad Suiza de Seguridad)***
+
+
+3 de marzo del 2022
 
 Swiss CyberSecurity es una comunidad de expertos en ciberseguridad, profesionales de TI y todos aquellos interesados ​​en construir un mundo seguro.
 
@@ -31,8 +35,18 @@ Swiss CyberSecurity se asoció con (ISC)2 e ISACA, por lo que nuestros participa
 
 ```
 Link if the event : <Link Evento: https://www.linkedin.com/events/6899843865000386560/>
+
 ```
 
+### ***Owasp Viña del Mar y Festival de agilidad***
+
+
+7 de enero del 2022
+
+Evento regional sudamericano que tiene como propósito compartir experiencias, prácticas, métodos y herramientas de Agile Cybersecurity democratizando el conocimiento y de libre acceso para tod@s.
+
+```
+Link if the event : <Link Evento: https://www.linkedin.com/company/agilecybersecurityfest/about/>
 
 
 ### ***Owasp Viña y Owasp Lagos(Nigeria)***
