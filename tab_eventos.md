@@ -12,9 +12,30 @@ tags: example-tag
 
 
 
-## **EVENTOS PASADOS**  
+## **EVENTOS PASADOS** 
 
-### ***Owasp Viña del Mar-Meeting 4***
+### ***Owasp Viña del Mar y SCS(Comunidad Suiza de Seguridad)***
+
+Swiss CyberSecurity es una comunidad de expertos en ciberseguridad, profesionales de TI y todos aquellos interesados ​​en construir un mundo seguro.
+
+Nuestra visión es la de una sociedad de conexiones seguras, donde las personas puedan tener acceso a información y servicios sin comprometer su seguridad y privacidad.
+
+Nuestra misión es crear la mentalidad de seguridad cibernética correcta y la actitud correcta para estar al tanto de las nuevas amenazas.
+
+Swiss CyberSecurity crea una plataforma donde compartimos conocimientos, difundimos la voz sobre CyberSecurity, aumentamos la conciencia y profundizamos el conocimiento técnico al presentar tecnologías y soluciones innovadoras de ciberdefensa.
+
+Para poder lograr este objetivo, organizamos más de 90 conferencias de CyberSecurity con un tema específico de ciberseguridad, y nos reunimos con los miembros de la comunidad para tomar una copa y hablar sobre las novedades de CyberSecurity.
+
+Swiss CyberSecurity se asoció con (ISC)2 e ISACA, por lo que nuestros participantes pueden obtener créditos CPE asistiendo a las conferencias.
+```
+
+```
+Link if the event : <Link Evento: https://www.linkedin.com/events/6899843865000386560/>
+```
+
+
+
+### ***Owasp Viña y Owasp Lagos(Nigeria)***
 
 27 de noviembre  2021
 
@@ -24,7 +45,7 @@ Cuatro Speakers
 
 Speakers Confirmados:
 
-https://www.linkedin.com/posts/owasp-lagos-chapter-6a92811b4_another-owasp-talks-is-here-november-27th-activity-6866166083951308800-XJhp
+Link if the event : <https://www.linkedin.com/posts/owasp-lagos-chapter-6a92811b4_another-owasp-talks-is-here-november-27th-activity-6866166083951308800-XJhp>
 
 ### ***Owasp Viña del Mar-Meeting 3***
 
