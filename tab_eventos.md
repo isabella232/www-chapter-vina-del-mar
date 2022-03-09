@@ -31,12 +31,10 @@ Swiss CyberSecurity crea una plataforma donde compartimos conocimientos, difundi
 Para poder lograr este objetivo, organizamos más de 90 conferencias de CyberSecurity con un tema específico de ciberseguridad, y nos reunimos con los miembros de la comunidad para tomar una copa y hablar sobre las novedades de CyberSecurity.
 
 Swiss CyberSecurity se asoció con (ISC)2 e ISACA, por lo que nuestros participantes pueden obtener créditos CPE asistiendo a las conferencias.
-```
 
-```
 Link if the event : <Link Evento: https://www.linkedin.com/events/6899843865000386560/>
 
-```
+
 
 ### ***Owasp Viña del Mar y Festival de agilidad***
 
@@ -45,7 +43,7 @@ Link if the event : <Link Evento: https://www.linkedin.com/events/68998438650003
 
 Evento regional sudamericano que tiene como propósito compartir experiencias, prácticas, métodos y herramientas de Agile Cybersecurity democratizando el conocimiento y de libre acceso para tod@s.
 
-```
+
 Link if the event : <Link Evento: https://www.linkedin.com/company/agilecybersecurityfest/about/>
 
 
