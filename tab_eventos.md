@@ -32,7 +32,7 @@ Para poder lograr este objetivo, organizamos más de 90 conferencias de CyberSec
 
 Swiss CyberSecurity se asoció con (ISC)2 e ISACA, por lo que nuestros participantes pueden obtener créditos CPE asistiendo a las conferencias.
 
-Link if the event : <Link Evento: https://www.linkedin.com/events/6899843865000386560/>
+Link of the event : <https://www.linkedin.com/events/6899843865000386560/>
 
 
 
@@ -44,7 +44,7 @@ Link if the event : <Link Evento: https://www.linkedin.com/events/68998438650003
 Evento regional sudamericano que tiene como propósito compartir experiencias, prácticas, métodos y herramientas de Agile Cybersecurity democratizando el conocimiento y de libre acceso para tod@s.
 
 
-Link if the event : <Link Evento: https://www.linkedin.com/company/agilecybersecurityfest/about/>
+Link of the event : <https://www.linkedin.com/company/agilecybersecurityfest/about/>
 
 
 ### ***Owasp Viña y Owasp Lagos(Nigeria)-meeting 4-2021***
@@ -57,7 +57,7 @@ Cuatro Speakers
 
 Speakers Confirmados:
 
-Link if the event : <https://www.linkedin.com/posts/owasp-lagos-chapter-6a92811b4_another-owasp-talks-is-here-november-27th-activity-6866166083951308800-XJhp>
+Link of the event : <https://www.linkedin.com/posts/owasp-lagos-chapter-6a92811b4_another-owasp-talks-is-here-november-27th-activity-6866166083951308800-XJhp>
 
 ### ***Owasp Viña del Mar-Meeting 3-2021***
 
@@ -78,7 +78,7 @@ Speakers Confirmados:
 We are part of the CFP and Marketing comitte
 
 
-Link if the event : <https://www.meetup.com/es/OWASP-Vina-del-Mar-Chapter/events/279182584/> 
+Link of the event : <https://www.meetup.com/es/OWASP-Vina-del-Mar-Chapter/events/279182584/> 
 Video:<https://youtu.be/yLvTiavxIZk> 
 
 Talks: 
@@ -94,7 +94,7 @@ Talks:
 We are part of the CFP and Marketing comitte
 
 
-Link if the event : <https://owasp.org/www-event-2021-latam-at-home/index-en> 
+Link of the event : <https://owasp.org/www-event-2021-latam-at-home/index-en> 
 Videos:<https://youtu.be/wYhqYyFsrrE> 
 
 
@@ -111,7 +111,7 @@ https://www.meetup.com/es-ES/Women-Who-Code-Santiago/events/272773158/?isFirstPu
 
 ### *** Owasp Chapter ALL DAY***
 
-Link if the event : <https://owasp.org/www-community/social/chapters_all_day/> 
+Link of the event : <https://owasp.org/www-community/social/chapters_all_day/> 
 
 
 Speakers
@@ -127,7 +127,7 @@ Youtube Channel edit video : <https://www.youtube.com/watch?v=VUUPnMhNQAw>
 
 ### ***Owasp LATAM Stay Home 2020***
 
-Link if the event : <https://owasp.org/www-event-2020-latam-at-home/>
+Link of the event : <https://owasp.org/www-event-2020-latam-at-home/>
 
                    Chapter Speakers : Mikel Rufian
                    Paola Perez
